@@ -71,7 +71,7 @@ header {
     align-items: center;
     padding: 20px;
     background: linear-gradient(135deg, #fff 0%, var(--winter_lighter_blue) 100%);
-    animation: fade_in 1s forwards;
+    animation: fade_in 1.2s forwards;
 }
 
 @keyframes fade_in {
@@ -139,7 +139,7 @@ header h1 {
 
 /* --- BACKGROUND IMAGES --- */
 .christmas_banner {
-    background-image: url("img/christmas_banner.png");
+    background-image: url("img/christmasbanner.jpg");
 }
 .hanukkah_banner {
     background-image: url("img/chanukah_banner.png"); 
