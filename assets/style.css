@@ -139,7 +139,7 @@ header h1 {
 
 /* --- BACKGROUND IMAGES --- */
 .christmas_banner {
-    background-image: url("img/christmasbanner.jpg");
+    background-image: url("img/christmasbanner.png");
 }
 .hanukkah_banner {
     background-image: url("img/chanukah_banner.png"); 
@@ -258,3 +258,4 @@ footer a {
         text-align: center;
     }
 }
+
